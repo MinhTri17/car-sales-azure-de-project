@@ -4,7 +4,7 @@
 # Project Description
 - This project was built to support learning purpose which I followed and modified a tutorial on my own to practice modern Data Engineer tools: Azure cloud including many widely used services such as Azure Data Factory, Azure Data Lake Storage, Azure Databricks, Unity Catalog. 
 
-- **📌 Note:** I've added my own documentation, diagrams, and new components for the system. I also made custom adjustments to the guided parts to gain a deeper understanding of how each componenet functions.
+**📌 Note:** I've added my own documentation, diagrams, and new components for the system. I also made custom adjustments to the guided parts to gain a deeper understanding of how each componenet functions.
 
 # Learning Goals
 - Learn how to load data from external sources into Azure
