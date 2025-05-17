@@ -54,7 +54,7 @@
 
 # Further Documentation
 Detailed documentation of this project, including diagrams and documentation for each stage: 
-🔗 [Project Documentation Notion Page](https://www.notion.so/your-link-here)
+🔗 [Project Documentation Notion Page](https://www.notion.so/soranguyen17/Car-Sales-Azure-Project-Documentation-1f65b370a03180d596d4c6127d34019a?pvs=4)
 
 # Reference tutorial
 -  **[Azure End-To-End Data Engineering Project (Job Ready) | Azure Data Engineering Bootcamp](https://www.youtube.com/@AnshLambaJSR])**
